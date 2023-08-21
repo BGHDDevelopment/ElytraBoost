@@ -1,0 +1,4 @@
+name: ElytraBooost
+version: '${project.version}'
+main: com.bghddev.elytrabooost.ElytraBooost
+api-version: '1.20'

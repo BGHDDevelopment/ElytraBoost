@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ElytraBooost:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ElytraBooost_jar</output-path>
+    <root id="archive" name="ElytraBooost.jar">
+      <element id="module-output" name="ElytraBooost" />
+    </root>
+  </artifact>
+</component>
