@@ -1,4 +1,8 @@
 name: ElytraBooost
 version: '${project.version}'
-main: com.bghddev.elytrabooost.ElytraBooost
+main: com.bghddev.elytraboost.Boost
 api-version: '1.20'
+commands:
+  generatering:
+    description: Generates a new ring
+    usage: /generatering
